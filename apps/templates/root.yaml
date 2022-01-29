@@ -12,7 +12,7 @@ spec:
   source:
     path: apps/
     repoURL: https://github.com/svercillo/argo-cd-trial.git
-    targetRevision: HEAD
+    targetRevision: qa
   syncPolicy:
     automated:
       prune: true
