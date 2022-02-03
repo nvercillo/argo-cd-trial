@@ -1,0 +1,8 @@
+apiVersion: v2
+name: cert-manager-federato
+version: 1.0.0
+dependencies:
+    # ? namespace
+  - name: cert-manager
+    version: 1.7.0
+    repository: https://charts.jetstack.io

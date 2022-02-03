@@ -1,1 +1,2 @@
-tenant_name: qa
+disaster_recovery:
+  backup_bucket_name: qa-tenant-federato_us-central1-a_qa-cluster_backup
